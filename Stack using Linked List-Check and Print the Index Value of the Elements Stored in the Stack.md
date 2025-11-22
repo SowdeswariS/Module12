@@ -48,7 +48,3 @@ print(i, stack[i])
 Thus, the python program to check and print the index values of the elements
 stored in the stack using linked list is executed successfully.
 
-
-## Sample Input & Output
-
-## Result
